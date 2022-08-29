@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-roll-dice-game-app/static/css/main.30dbe15b.css",
+    "main.js": "/react-roll-dice-game-app/static/js/main.9abc9580.js",
+    "static/js/787.86b5a038.chunk.js": "/react-roll-dice-game-app/static/js/787.86b5a038.chunk.js",
+    "index.html": "/react-roll-dice-game-app/index.html",
+    "main.30dbe15b.css.map": "/react-roll-dice-game-app/static/css/main.30dbe15b.css.map",
+    "main.9abc9580.js.map": "/react-roll-dice-game-app/static/js/main.9abc9580.js.map",
+    "787.86b5a038.chunk.js.map": "/react-roll-dice-game-app/static/js/787.86b5a038.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30dbe15b.css",
+    "static/js/main.9abc9580.js"
+  ]
+}
